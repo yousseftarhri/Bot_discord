@@ -4,4 +4,4 @@ To undersand how can you deploy your bot in Heroku, I will share with you my pos
 https://medium.com/@yousseftarhri15/create-discord-bot-with-python-and-deploy-it-in-heroku-dbdb590266e0
 
 ## To Do List :
-1. The usee can get the prices of all cryptocurrencies not just bitcoin.
+1. The user can get the prices of all cryptocurrencies not just bitcoin.
